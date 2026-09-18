@@ -1,11 +1,11 @@
 /* 1. Cores e estilos gerais: altere estas variáveis para testar outra identidade visual. */
 :root {
   --paper: #f3efe8;
-  --ink: #202c29;
+  --ink: #344053;
   --muted: #68736d;
   --line: #d5d8cf;
-  --accent: #bc6e43;
-  --green: #173e38;
+  --accent: #333e8e;
+  --green: #340c4e;
 }
 
 * { box-sizing: border-box; }
